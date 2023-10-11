@@ -32,12 +32,12 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;Probability Review [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-05-random/random-01.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-05-random/random-01.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Selection [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-05-random/random-02.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-05-random/random-02.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Quicksort [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-05-random/random-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-05-random/random-03.ipynb?flush_cache=True)|
-<!---
 &nbsp;&nbsp;Midterm Review [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-05-random/midterm-review.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-05-random/midterm-review.ipynb?flush_cache=True)|
 |[                  **Module 06: Greedy Algorithms**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-06-greedy)|
-&nbsp;&nbsp;[Task scheduling / Knapsack](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-01.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Heaps](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-02.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Huffman coding](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Task scheduling / Knapsack [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-06-greedy/greedy-01.ipynb)/[static] (https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Heaps[live] (https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-06-greedy/greedy-02.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Huffman coding [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-06-greedy/greedy-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-03.ipynb?flush_cache=True)|
+<!---
 |[                **Module 07: Dynamic Programming**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-07-dynamic)|
 &nbsp;&nbsp;[0-1 Knapsack](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-01.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Edit Distance, Longest Increasing Subsequence](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-02.ipynb?flush_cache=True)|
