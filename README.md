@@ -37,11 +37,11 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;Task scheduling / Knapsack [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-06-greedy/greedy-01.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-01.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Heaps [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-06-greedy/greedy-02.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-02.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Huffman coding [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-06-greedy/greedy-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-06-greedy/greedy-03.ipynb?flush_cache=True)|
-<!---
 |[                **Module 07: Dynamic Programming**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-07-dynamic)|
-&nbsp;&nbsp;[0-1 Knapsack](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-01.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Edit Distance, Longest Increasing Subsequence](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-02.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Huffman Coding](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;0-1 Knapsack [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-07-dynamic/dp-01.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-01.ipynb?flush_cache=Tru)|
+&nbsp;&nbsp;Edit Distance, Longest Increasing Subsequence [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-07-dynamic/dp-02.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Optimal Binary Search Trees [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-07-dynamic/dp-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-03.ipynb?flush_cache=True)|
+<!---
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-08-graph)|
 &nbsp;&nbsp;[Graph Overview](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-01.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[BFS](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-02.ipynb?flush_cache=True)|
