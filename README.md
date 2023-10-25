@@ -41,14 +41,14 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;0-1 Knapsack [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-07-dynamic/dp-01.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-01.ipynb?flush_cache=Tru)|
 &nbsp;&nbsp;Edit Distance, Longest Increasing Subsequence [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-07-dynamic/dp-02.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-02.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Optimal Binary Search Trees [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-07-dynamic/dp-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-07-dynamic/dp-03.ipynb?flush_cache=True)|
-<!---
 |[                             **Module 08: Graphs**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-08-graph)|
-&nbsp;&nbsp;[Graph Overview](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-01.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[BFS](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-02.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[DFS](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-03.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Dijkstra](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-04.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Bellman-Ford](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-05.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Johnson](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-06.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Graphs Overview [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-01-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;BFS [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-02-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;DFS [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-03-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Dijkstra [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-04-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-04.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Bellman-Ford [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-05-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-05.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Johnson [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-08-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-06.ipynb?flush_cache=True)|
+<!---
 |[                     **Module 09: Spanning trees**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-09-trees)|
 &nbsp;&nbsp;[MST Overview - Prim](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-01.ipynb?flush_cache=True)|
 &nbsp;&nbsp;[Kruskal+TSP](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-02.ipynb?flush_cache=True)|
