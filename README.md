@@ -48,13 +48,13 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;Dijkstra [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-04-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-04.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Bellman-Ford [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-05-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-05.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Johnson [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-08-graph/graph-06.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-08-graph/graph-06.ipynb?flush_cache=True)|
-<!---
 |[                     **Module 09: Spanning trees**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-09-trees)|
-&nbsp;&nbsp;[MST Overview - Prim](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-01.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Kruskal+TSP](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-02.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Edge Contraction](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-03.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Star Contraction](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-04.ipynb?flush_cache=True)|
-&nbsp;&nbsp;[Boruvka](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-05.ipynb?flush_cache=True)|
+&nbsp;&nbsp;MST Overview - Prim [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=[module-09-trees/tree-01.ipynb](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/).ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-01.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Kruskal+TSP [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-02.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-02.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Edge Contraction [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-03.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Star Contraction [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-04.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-04.ipynb?flush_cache=True)|
+&nbsp;&nbsp;Boruvka [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-05.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-05.ipynb?flush_cache=True)|
+<!---
 |[                      **Module 10: Computability**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-10-computability)|
 &nbsp;&nbsp;[Computational Complexity](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-10-computability/computability.ipynb?flush_cache=True)|
 --->
