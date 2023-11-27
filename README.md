@@ -54,7 +54,5 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 &nbsp;&nbsp;Edge Contraction [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-03.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-03.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Star Contraction [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-04.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-04.ipynb?flush_cache=True)|
 &nbsp;&nbsp;Boruvka [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-09-trees/tree-05.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-09-trees/tree-05.ipynb?flush_cache=True)|
-<!---
 |[                      **Module 10: Computability**](https://github.com/tulane-cmps6610/fall2023-slides/tree/master/module-10-computability)|
-&nbsp;&nbsp;[Computational Complexity](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-10-computability/computability.ipynb?flush_cache=True)|
---->
+&nbsp;&nbsp;Computational Complexity [live](https://mybinder.org/v2/gh/tulane-cmps6610/fall2023-slides/master?filepath=module-10-computability/computability.ipynb)/[static](https://nbviewer.jupyter.org/github/tulane-cmps6610/fall2023-slides/blob/master/module-10-computability/computability.ipynb?flush_cache=True)|
